@@ -244,6 +244,25 @@ p {
   height: 12px;
   background: #7ec6bb;
 }
+.skillset .badge{
+  padding: 7px 10px;
+  margin-right: 5px;
+  border-radius: 0px;
+  background-color: #35776d;
+}
+.skillset .section
+{
+  margin-bottom: 10px;
+}
+.skillset .first .badge{
+  font-size: 16px;
+}
+.skillset .second .badge{
+  font-size: 14px;
+}
+.skillset .first .badge{
+  font-size: 16px;
+}
 .footer {
   padding: 30px;
   padding-top: 60px;
